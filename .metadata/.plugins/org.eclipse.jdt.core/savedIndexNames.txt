@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Gerando Falcões\Desktop\teste\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+48067274.index
+92350057.index

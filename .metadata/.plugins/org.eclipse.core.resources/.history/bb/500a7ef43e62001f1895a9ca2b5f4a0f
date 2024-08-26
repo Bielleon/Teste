@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Ex2 {
+	
+	public static void main(String[] args) {
+	
+		Scanner sc = new Scanner(System.in);
+		short duracao = sc.nextShort();
+		System.out.println("informe a duracao do filme em minutos: ");
+		long minutos = duracao % 60;
+		long horas = (duracao - minutos) / 60;
+		System.out.println("em horas "  + horas + "Minutos" + minutos);
+	}
+
+}
